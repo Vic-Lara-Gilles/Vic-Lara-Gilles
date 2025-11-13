@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software eficientes y escalables.\
+💡 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones de software eficientes y escalables.\
 🎓 &nbsp;Soy Ingeniero en Informática con experiencia en desarrollo de aplicaciones web, backend y sistemas distribuidos.\
 🌱 &nbsp;Actualmente estoy profundizando en Arquitectura de Software, Inteligencia Artificial y Sistemas Cloud.\
 ✍️ &nbsp;En mi tiempo libre disfruto estudiar nuevas tecnologías y entrenamiento deportivos (Gym)
