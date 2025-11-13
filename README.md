@@ -29,12 +29,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-
-### ⚙️ &nbsp;Estadísticas de GitHub
-
-<p align="center">
-<a href="https://github.com/Vic-Lara-Gilles">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vic-Lara-Gilles&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vic-Lara-Gilles&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
