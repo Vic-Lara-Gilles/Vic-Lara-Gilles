@@ -41,4 +41,4 @@ def solve_complex_problems():
 
 ---
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Vic-Lara-Gilles) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)]([https://www.linkedin.com/in/rodrigo-lara-gilles](https://www.linkedin.com/in/victor-lara-gilles/))
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Vic-Lara-Gilles) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-lara-gilles/))
