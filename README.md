@@ -1,48 +1,46 @@
-# 👋 ¡Hola! Soy Rodrigo Lara Gilles
+# Rodrigo Lara Gilles → Full-Stack Developer & Cloud Architect
 
-### Ingeniero en Informática | Full-Stack Developer
+**Building scalable web applications and distributed systems** | Specialized in modern web frameworks & cloud infrastructure
 
-### 👨🏻‍💻 &nbsp;Sobre mí
+```typescript
+// What I do best
+const expertise = {
+  frontend: ["React", "Next.js", "TypeScript"],
+  backend: ["FastAPI", "Node.js", "Python"],
+  infrastructure: ["AWS", "Docker", "Kubernetes"],
+  focus: "Clean architecture & production-ready systems"
+};
+```
 
-💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software eficientes y escalables.\
-🎓 &nbsp;Soy Ingeniero en Informática con experiencia en desarrollo de aplicaciones web, backend y sistemas distribuidos.\
-🌱 &nbsp;Actualmente profundizando en Arquitectura de Software, Inteligencia Artificial y Sistemas Cloud.\
-🚀 &nbsp;Trabajando con [React](https://react.dev), [Next.js](https://nextjs.org), [FastAPI](https://fastapi.tiangolo.com) y AWS.\
-✍️ &nbsp;En mi tiempo libre disfruto estudiar nuevas tecnologías y entrenamiento deportivo (Gym).\
-✉️ &nbsp;Puedes escribirme a **gilles.604@gmail.com**, responderé lo antes posible.\
-📄 &nbsp;Te invito a revisar mi [Currículum](https://www.linkedin.com/in/rodrigo-lara-gilles) para conocer más sobre mi experiencia profesional. ¡Estoy abierto a nuevas oportunidades y colaboraciones!
+## Current Focus
+- **Cloud-Native Architecture** → Microservices & distributed systems
+- **AI/ML Integration** → LLMs, RAG systems, intelligent applications
+- **Modern Web Development** → Next.js 15, React Server Components, Edge Computing
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## Tech Stack
 
-### 🛠 &nbsp;Stack Tecnológico
+![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,nodejs,docker,kubernetes,aws,postgres,mongodb,git,github&theme=dark)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+## Production Experience
+- **Web Applications**: Full-stack development with React, Next.js and FastAPI
+- **Backend Systems**: RESTful APIs, microservices architecture, async processing
+- **Cloud Infrastructure**: AWS deployment, containerization, CI/CD pipelines
+- **Database Design**: PostgreSQL, MongoDB, Redis caching strategies
 
-### 📚 &nbsp;Recursos y Ejemplos
+## Languages
+Spanish (Native) • English (Professional)
 
-**Explora tecnologías modernas:**
-- [React - Documentación oficial](https://react.dev) - Librería UI moderna
-- [Next.js - Framework React](https://nextjs.org) - Full-stack con Server Components
-- [FastAPI - Python Web Framework](https://fastapi.tiangolo.com) - APIs de alto rendimiento
-- [TypeScript - Superset de JavaScript](https://www.typescriptlang.org) - JavaScript tipado
-- [Docker - Containerización](https://docs.docker.com) - Deploy consistente
-- [AWS Lambda - Serverless](https://aws.amazon.com/lambda/) - Computación sin servidores
+---
 
-### 📫 &nbsp;Conecta Conmigo
+### Open to
+- **Software Architecture Consulting** → Scalable systems design
+- **AI Integration Projects** → LangChain, RAG implementation
+- **Technical Collaboration** → Open source contributions
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/rodrigo-lara-gilles)
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail)](mailto:gilles.604@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/Vic-Lara-Gilles)
+**Expertise**: React • Next.js • FastAPI • TypeScript • AWS • Docker • PostgreSQL • MongoDB
+
+Contact: [gilles.604@gmail.com](mailto:gilles.604@gmail.com)
+
+---
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Vic-Lara-Gilles) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rodrigo-lara-gilles)
