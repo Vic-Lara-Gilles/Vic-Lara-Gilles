@@ -1,6 +1,6 @@
-![Rodrigo Lara Gilles Banner](https://raw.githubusercontent.com/Vic-Lara-Gilles/Vic-Lara-Gilles/main/assets/Rodrigo%20Lara%20Gilles%20Banner.jpg)
+# 👋 ¡Hola! Soy Rodrigo Lara Gilles
 
-<img alt="Saludo" src="https://raw.githubusercontent.com/Vic-Lara-Gilles/Vic-Lara-Gilles/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Rodrigo</h2>
+### Ingeniero en Informática | Full-Stack Developer
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
