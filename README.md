@@ -1,6 +1,6 @@
-# Rodrigo Lara Gilles → Backend Developer & Full-Stack
+# Rodrigo Lara Gilles → Full-Stack con enfoque Backend
 
-**Desarrollando sistemas backend escalables y aplicaciones web modernas** | Especializado en APIs de alto rendimiento y arquitectura de microservicios
+**Construyendo APIs escalables y aplicaciones web de alto rendimiento** | Arquitectura de microservicios, sistemas distribuidos y desarrollo full-stack
 
 ```python
 # What I do best
