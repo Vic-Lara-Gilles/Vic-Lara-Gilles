@@ -1,45 +1,45 @@
-# Rodrigo Lara Gilles → Full-Stack Developer & Cloud Architect
+# Rodrigo Lara Gilles → Full-Stack Developer
 
-**Building scalable web applications and distributed systems** | Specialized in modern web frameworks & cloud infrastructure
+**Building scalable web applications and distributed systems** | Specialized in Software Architecture, AI & Cloud
 
-```typescript
-// What I do best
-const expertise = {
-  frontend: ["React", "Next.js", "TypeScript"],
-  backend: ["FastAPI", "Node.js", "Python"],
-  infrastructure: ["AWS", "Docker", "Kubernetes"],
-  focus: "Clean architecture & production-ready systems"
-};
+```python
+# What I do best
+def expertise():
+    return {
+        "full_stack": "Modern web frameworks (React, Next.js, FastAPI)",
+        "architecture": "Microservices & distributed systems",
+        "cloud_ready": "Docker, CI/CD pipelines, clean architectures"
+    }
 ```
 
-## Current Focus
-- **Cloud-Native Architecture** → Microservices & distributed systems
-- **AI/ML Integration** → LLMs, RAG systems, intelligent applications
-- **Modern Web Development** → Next.js 15, React Server Components, Edge Computing
+## 🎯 **Current Focus**
+- **Software Architecture** → Microservices & distributed systems
+- **AI Integration** → LangChain, RAG systems, intelligent applications
+- **Cloud Computing** → AWS infrastructure & deployment strategies
 
-## Tech Stack
+## ⚡ **Tech Stack**
 
-![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,nodejs,docker,kubernetes,aws,postgres,mongodb,git,github&theme=dark)
+![Python](https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,fastapi,html,css,git,github,docker,postgres,mongodb&theme=dark)
 
-## Production Experience
+## 🚀 **Production Experience**
 - **Web Applications**: Full-stack development with React, Next.js and FastAPI
 - **Backend Systems**: RESTful APIs, microservices architecture, async processing
 - **Cloud Infrastructure**: AWS deployment, containerization, CI/CD pipelines
-- **Database Design**: PostgreSQL, MongoDB, Redis caching strategies
+- **Database Design**: PostgreSQL, MongoDB, scalable data architectures
 
-## Languages
-Spanish (Native) • English (Professional)
+## 🌐 **Languages**
+🇨🇱 Spanish (Native) • 🇺🇸 English (Professional)
 
 ---
 
-### Open to
+### 💼 **Open to**
 - **Software Architecture Consulting** → Scalable systems design
-- **AI Integration Projects** → LangChain, RAG implementation
-- **Technical Collaboration** → Open source contributions
+- **AI Integration Projects** → LangChain, RAG implementation in web apps
+- **Technical Collaboration** → Open source contributions & knowledge sharing
 
-**Expertise**: React • Next.js • FastAPI • TypeScript • AWS • Docker • PostgreSQL • MongoDB
+**Expertise**: React • Next.js • FastAPI • TypeScript • Python • Docker • PostgreSQL • MongoDB
 
-Contact: [gilles.604@gmail.com](mailto:gilles.604@gmail.com)
+📧 **Contact**: [gilles.604@gmail.com](mailto:gilles.604@gmail.com)
 
 ---
 
