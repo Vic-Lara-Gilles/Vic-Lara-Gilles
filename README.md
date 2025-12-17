@@ -1,13 +1,13 @@
-# Rodrigo Lara Gilles → Backend Developer
+# Rodrigo Lara Gilles → Backend Developer & Full-Stack
 
-**Desarrollando sistemas backend escalables y APIs de alto rendimiento** | Especializado en arquitectura de microservicios y sistemas distribuidos
+**Desarrollando sistemas backend escalables y aplicaciones web modernas** | Especializado en APIs de alto rendimiento y arquitectura de microservicios
 
 ```python
 # What I do best
 def solve_complex_problems():
     return {
         "backend_systems": "APIs RESTful y microservicios escalables",
-        "distributed_systems": "Arquitecturas distribuidas de alto rendimiento",
+        "frontend_development": "Aplicaciones web con React y Next.js",
         "production_ready": "Clean architecture y código mantenible"
     }
 ```
@@ -15,26 +15,27 @@ def solve_complex_problems():
 ## 🎯 **Current Focus**
 - **Backend Architecture** → Microservicios y sistemas distribuidos
 - **API Development** → FastAPI, NestJS, Node.js
-- **Cloud & DevOps** → Docker, CI/CD, infraestructura escalable
+- **Frontend Development** → React, Next.js, aplicaciones web modernas
 
 ## ⚡ **Tech Stack**
 
-![Python](https://skillicons.dev/icons?i=python,typescript,nodejs,nestjs,fastapi,docker,postgres,mongodb,redis,git,github&theme=dark)
+![Python](https://skillicons.dev/icons?i=python,typescript,nodejs,nestjs,fastapi,react,nextjs,html,css,docker,postgres,mongodb,git,github&theme=dark)
 
 ## 🚀 **Production Impact**
 - **Backend Systems**: APIs RESTful de alto rendimiento con FastAPI y NestJS
+- **Frontend Development**: Aplicaciones web con React, Next.js y TypeScript
 - **Microservices**: Arquitectura distribuida, event-driven systems
-- **Databases**: PostgreSQL, MongoDB, Redis para caching y real-time
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines, cloud deployment
+- **Databases**: PostgreSQL, MongoDB, diseño de esquemas escalables
+- **DevOps**: Docker, CI/CD pipelines, cloud deployment
 
 ---
 
 ### 💼 **Open to**
-- **Backend Development** → APIs y sistemas distribuidos
+- **Full-Stack Development** → Backend APIs y aplicaciones web
 - **Architecture Consulting** → Microservicios y sistemas escalables
 - **Technical Collaboration** → Open source y nuevas oportunidades
 
-**Tech**: Python • TypeScript • Node.js • NestJS • FastAPI • Docker • PostgreSQL • MongoDB • Redis
+**Tech**: Python • TypeScript • Node.js • NestJS • FastAPI • React • Next.js • Docker • PostgreSQL • MongoDB
 
 📧 **Contact**: [gilles.604@gmail.com](mailto:gilles.604@gmail.com)
 
