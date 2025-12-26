@@ -1,4 +1,4 @@
-# Rodrigo Lara Gilles → Full-Stack con enfoque Backend
+# Rodrigo Lara Gilles → Full-Stack
 
 **Construyendo APIs escalables y aplicaciones web de alto rendimiento** | Arquitectura de microservicios, sistemas distribuidos y desarrollo full-stack
 
