@@ -35,7 +35,7 @@ def solve_complex_problems():
 - **Architecture Consulting** → Microservicios y sistemas escalables
 - **Technical Collaboration** → Open source y nuevas oportunidades
 
-**Tech**: Python • TypeScript • Node.js • NestJS • FastAPI • React • Next.js • Docker • PostgreSQL • MongoDB
+**Tech**: Python • TypeScript • Node.js • FastAPI • React • Next.js • Docker • PostgreSQL • MongoDB
 
 📧 **Contact**: [gilles.604@gmail.com](mailto:gilles.604@gmail.com)
 
