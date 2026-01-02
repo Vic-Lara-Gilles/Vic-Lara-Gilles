@@ -19,7 +19,7 @@ def solve_complex_problems():
 
 ## ⚡ **Tech Stack**
 
-![Python](https://skillicons.dev/icons?i=python,typescript,nodejs,nestjs,fastapi,react,nextjs,html,css,docker,postgres,mongodb,git,github&theme=dark)
+![Python](https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,html,css,docker,postgres,mongodb,git,github&theme=dark)
 
 ## 🚀 **Production Impact**
 - **Backend Systems**: APIs RESTful de alto rendimiento con FastAPI y NestJS
