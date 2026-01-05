@@ -16,7 +16,6 @@ def solve_complex_problems():
 - **Backend Architecture** → Microservicios, sistemas distribuidos
 - **Frontend Development** → React, Next.js, aplicaciones web modernas
 
-___
 
 ## 🚀 **Production Impact**
 - **Backend Systems**: APIs RESTful de alto rendimiento con FastAPI y Node js
