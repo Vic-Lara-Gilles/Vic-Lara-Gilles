@@ -16,9 +16,7 @@ def solve_complex_problems():
 - **Backend Architecture** → Microservicios, sistemas distribuidos
 - **Frontend Development** → React, Next.js, aplicaciones web modernas
 
-## ⚡ **Tech Stack**
-
-![Python](https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,html,css,docker,postgres,mongodb,git,github&theme=dark)
+___
 
 ## 🚀 **Production Impact**
 - **Backend Systems**: APIs RESTful de alto rendimiento con FastAPI y Node js
@@ -29,7 +27,7 @@ def solve_complex_problems():
 
 ---
 
-**Tech**: Python • TypeScript • Node.js • FastAPI • React • Next.js • Docker • PostgreSQL • MongoDB
+![Python](https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,html,css,docker,postgres,mongodb,git,github&theme=dark)
 
 📧 **Contact**: [gilles.604@gmail.com](mailto:gilles.604@gmail.com)
 
