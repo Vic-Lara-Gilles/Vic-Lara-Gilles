@@ -1,4 +1,4 @@
-# Rodrigo Lara Gilles → Full-Stack
+# Rodrigo Lara Gilles → Desarrollo de Software
 
 **Construyendo APIs escalables y aplicaciones web de alto rendimiento** | Arquitectura de microservicios, sistemas distribuidos y desarrollo full-stack
 
@@ -13,8 +13,7 @@ def solve_complex_problems():
 ```
 
 ## 🎯 **Current Focus**
-- **Backend Architecture** → Microservicios y sistemas distribuidos
-- **API Development** → FastAPI, NestJS, Node.js
+- **Backend Architecture** → Microservicios, sistemas distribuidos
 - **Frontend Development** → React, Next.js, aplicaciones web modernas
 
 ## ⚡ **Tech Stack**
@@ -22,18 +21,13 @@ def solve_complex_problems():
 ![Python](https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,html,css,docker,postgres,mongodb,git,github&theme=dark)
 
 ## 🚀 **Production Impact**
-- **Backend Systems**: APIs RESTful de alto rendimiento con FastAPI y NestJS
+- **Backend Systems**: APIs RESTful de alto rendimiento con FastAPI y Node js
 - **Frontend Development**: Aplicaciones web con React, Next.js y TypeScript
 - **Microservices**: Arquitectura distribuida, event-driven systems
 - **Databases**: PostgreSQL, MongoDB, diseño de esquemas escalables
 - **DevOps**: Docker, CI/CD pipelines, cloud deployment
 
 ---
-
-### 💼 **Open to**
-- **Full-Stack Development** → Backend APIs y aplicaciones web
-- **Architecture Consulting** → Microservicios y sistemas escalables
-- **Technical Collaboration** → Open source y nuevas oportunidades
 
 **Tech**: Python • TypeScript • Node.js • FastAPI • React • Next.js • Docker • PostgreSQL • MongoDB
 
