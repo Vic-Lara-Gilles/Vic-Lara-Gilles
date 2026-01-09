@@ -12,12 +12,12 @@ def solve_complex_problems():
     }
 ```
 
-## 🎯 **Current Focus**
+## **Current Focus**
 - **Backend Architecture** → Microservicios, sistemas distribuidos
 - **Frontend Development** → React, Next.js, aplicaciones web modernas
 
 
-## 🚀 **Production Impact**
+## **Production Impact**
 - **Backend Systems**: APIs RESTful de alto rendimiento con FastAPI y Node js
 - **Frontend Development**: Aplicaciones web con React, Next.js y TypeScript
 - **Microservices**: Arquitectura distribuida, event-driven systems
