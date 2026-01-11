@@ -7,7 +7,7 @@
 def solve_complex_problems():
     return {
         "backend_systems": "APIs RESTful y microservicios escalables",
-        "frontend_development": "Aplicaciones web con React y Next.js",
+        "frontend_development": "Aplicaciones web con React y Vite",
         "production_ready": "Clean architecture y código mantenible"
     }
 ```
