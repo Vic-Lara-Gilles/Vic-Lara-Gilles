@@ -1,6 +1,6 @@
 # Rodrigo Lara Gilles → Desarrollo de Software
 
-**Construyendo APIs escalables y aplicaciones web de alto rendimiento** | Arquitectura de microservicios, sistemas distribuidos y desarrollo full-stack
+**Building scalable APIs and high-performance web applications** | Microservices architecture, distributed systems, and full-stack development
 
 ```python
 # What I do best
@@ -13,15 +13,15 @@ def solve_complex_problems():
 ```
 
 ## **Current Focus**
-- **Backend Architecture** → Microservicios, sistemas distribuidos
-- **Frontend Development** → React, Next.js, aplicaciones web modernas
+- **Backend Architecture** → Microservices, distributed systems
+- **Frontend Development** → React, Next.js, modern web applications
 
 
 ## **Production Impact**
-- **Backend Systems**: APIs RESTful de alto rendimiento con FastAPI y Node js
-- **Frontend Development**: Aplicaciones web con React, Next.js y TypeScript
-- **Microservices**: Arquitectura distribuida, event-driven systems
-- **Databases**: PostgreSQL, MongoDB, diseño de esquemas escalables
+- **Backend Systems**: High-performance RESTful APIs with FastAPI and Node.js
+- **Frontend Development**: Web applications with React, Next.js, and TypeScript
+- **Microservices**: Distributed architecture, event-driven systems
+- **Databases**: PostgreSQL, MongoDB, scalable schema design
 - **DevOps**: Docker, CI/CD pipelines, cloud deployment
 
 ---
