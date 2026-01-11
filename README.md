@@ -27,7 +27,3 @@ def solve_complex_problems():
 ---
 
 ![Python](https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,html,css,docker,postgres,mongodb,git,github&theme=dark)
-
----
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Vic-Lara-Gilles) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-lara-gilles/)
