@@ -1,4 +1,4 @@
-### Hello there! 🤗, welcome to Victor GitHub page!
+### (｡･∀･)ﾉﾞHello there! 👋, welcome to Victor GitHub page!
 
 I'm Vic Lara Gilles, a passionate **Software Developer & Engineer** focused on building modern, high-quality web and backend applications.
 
@@ -7,5 +7,3 @@ I'm Vic Lara Gilles, a passionate **Software Developer & Engineer** focused on b
 - 🌱 Continuously learning new technologies and best practices in software engineering.
 - 🤝 Open to collaborations on interesting projects — feel free to reach out!
 - ⚡ Outside of coding, I enjoy exploring new ideas and taking on creative challenges.
-
-📩 Contact: [github.com/Vic-Lara-Gilles](https://github.com/Vic-Lara-Gilles)
