@@ -1,4 +1,4 @@
-## (｡･∀･)ﾉﾞHello there! 👋, welcome to Victor GitHub page!
+##Hello there! 👋, welcome to Victor GitHub page!
 
 ### I'm Vic Lara Gilles, a passionate **Software Developer & Engineer FullStack** focused on building modern, high-quality web and backend applications.
 
