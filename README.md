@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Vic-Lara-Gilles/vic-lara-gilles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- Software engineer.
+- Always learning, experimenting, and finding better ways to solve problems.
+- Open to collaborating on thoughtful projects — feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+<a href="https://www.vlgilles.me"><img src="https://img.shields.io/badge/vlgilles.me-000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xNi4zNiAxNGMuMDgtLjY2LjE0LTEuMzIuMTQtMnMtLjA2LTEuMzQtLjE0LTJoMy4zOGMuMTYuNjQuMjYgMS4zMS4yNiAycy0uMSAxLjM2LS4yNiAybS01LjE1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVhOC4wMyA4LjAzIDAgMCAxLTQuMzMgMy41Nk0xNC4zNCAxNEg5LjY2Yy0uMS0uNjYtLjE2LTEuMzItLjE2LTJzLjA2LTEuMzUuMTYtMmg0LjY4Yy4wOS42NS4xNiAxLjMyLjE2IDJzLS4wNyAxLjM0LS4xNiAyTTEyIDE5Ljk2Yy0uODMtMS4yLTEuNS0yLjUzLTEuOTEtMy45NmgzLjgyYy0uNDEgMS40My0xLjA4IDIuNzYtMS45MSAzLjk2TTggOEg1LjA4QTcuOTIgNy45MiAwIDAgMSA5LjQgNC40NEM4LjggNS41NSA4LjM1IDYuNzUgOCA4bS0yLjkyIDhIOGMuMzUgMS4yNS44IDIuNDUgMS40IDMuNTZBOCA4IDAgMCAxIDUuMDggMTZtLS44Mi0yQzQuMSAxMy4zNiA0IDEyLjY5IDQgMTJzLjEtMS4zNi4yNi0yaDMuMzhjLS4wOC42Ni0uMTQgMS4zMi0uMTQgMnMuMDYgMS4zNC4xNCAyTTEyIDQuMDNjLjgzIDEuMiAxLjUgMi41NCAxLjkxIDMuOTdoLTMuODJjLjQxLTEuNDMgMS4wOC0yLjc3IDEuOTEtMy45N00xOC45MiA4aC0yLjk1YTE1LjcgMTUuNyAwIDAgMC0xLjM4LTMuNTZjMS44NC42MyAzLjM3IDEuOSA0LjMzIDMuNTZNMTIgMkM2LjQ3IDIgMiA2LjUgMiAxMmExMCAxMCAwIDAgMCAxMCAxMGExMCAxMCAwIDAgMCAxMC0xMEExMCAxMCAwIDAgMCAxMiAyIi8%2BPC9zdmc%2B" alt="Website"></a>
+<a href="mailto:Gilles.604@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/victor-lara-gilles-fullstack"><img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yem0tLjUgMTUuNXYtNS4zYTMuMjYgMy4yNiAwIDAgMC0zLjI2LTMuMjZjLS44NSAwLTEuODQuNTItMi4zMiAxLjN2LTEuMTFoLTIuNzl2OC4zN2gyLjc5di00LjkzYzAtLjc3LjYyLTEuNCAxLjM5LTEuNGExLjQgMS40IDAgMCAxIDEuNCAxLjR2NC45M3pNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3eiIvPjwvc3ZnPg==" alt="LinkedIn"></a>
+</p>
+
